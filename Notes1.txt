@@ -1,0 +1,15 @@
+The Shell Notes
+To view your pathway = pwd
+To move around = cd
+To list contents = ls
+Create new file = touch
+Describes the type of file = file
+Displays file contents = cat
+Displays large file contents in a page by page manner = less
+Run previous command = history
+Clean display = clear
+Copy and paste files = cp 'file name' + absolute pathway
+Copy and paste multiple files = * = all, ? = one character, [] = character within bracket
+Rename or move files = mv
+Create a directory to store files (folder) = mkdir
+Remove files = rm
