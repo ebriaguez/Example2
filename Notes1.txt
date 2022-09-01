@@ -13,3 +13,5 @@ Copy and paste multiple files = * = all, ? = one character, [] = character withi
 Rename or move files = mv
 Create a directory to store files (folder) = mkdir
 Remove files = rm
+Locating a file/directory = find
+
